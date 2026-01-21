@@ -65,7 +65,7 @@ Run the app:
 
 Open your browser and go to the local URL shown in the terminal.
 
-### Requirements
+## Requirements
 Create a requirements.txt file with the following packages:
 
 numpy
@@ -79,7 +79,7 @@ Optional: For exact versions (recommended for reproducibility):
 
 pip freeze > requirements.txt
 
-### .gitignore
+## .gitignore
 Create a .gitignore file to avoid unnecessary files:
 
 __pycache__/
@@ -90,11 +90,11 @@ venv/
 .DS_Store
 .ipynb_checkpoints/
 
-### Author
+## Author
 
 Muhammad Umar
 Data Science Enthusiast & Python Developer
 
-### License
+## License
 
 This project is licensed under the MIT License.
