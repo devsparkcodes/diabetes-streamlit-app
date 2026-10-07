@@ -160,28 +160,6 @@ The application will open through the local Streamlit server.
 
 ---
 
-## Screenshots
-
-Add project screenshots here when available.
-
-Example:
-
-```md
-### Home Page
-
-![Home Page](assets/home-page.png)
-
-### Exploratory Data Analysis
-
-![EDA](assets/eda.png)
-
-### Prediction Result
-
-![Prediction Result](assets/prediction-result.png)
-```
-
----
-
 ## Learning Outcomes
 
 Through this project, I practiced:
